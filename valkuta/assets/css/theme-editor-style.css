@@ -1,0 +1,48 @@
+/*
+  Theme Name:  valkuta
+  Author: ThemeDraft
+*/
+
+.wp-block-quote {
+    border-color: #fa6943;
+    background-color: #fa6943;
+    font-size: 17px;
+    color: #ffffff;
+    padding: 35px 25px;
+    margin: 25px 0;
+    border-radius: 10px;
+}
+
+.wp-block-quote cite,.wp-block-quote__citation {
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-weight: 700;
+    color: #ffffff;
+}
+
+
+.wp-block-freeform.block-library-rich-text__tinymce blockquote{
+    border-left: 0;
+    padding-left: 110px;
+}
+
+.wp-block-freeform.block-library-rich-text__tinymce blockquote p{
+    margin-top: 0;
+}
+
+
+/* Main column width */
+.wp-block {
+    max-width: 1140px;
+}
+
+/* Width of "wide" blocks */
+.wp-block[data-align="wide"] {
+    max-width: 1080px;
+}
+
+/* Width of "full-wide" blocks */
+.wp-block[data-align="full"] {
+    max-width: none;
+}
+

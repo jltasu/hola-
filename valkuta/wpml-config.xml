@@ -1,0 +1,12 @@
+<wpml-config>
+    <admin-texts>
+        <key name="valkuta_theme_options">
+            <key name="header_cta_btn_text" />
+            <key name="blog_title" />
+            <key name="error_page_title" />
+            <key name="not_found_text" />
+            <key name="copyright_text" />
+            <key name="footer_info_right_text" />
+        </key>
+    </admin-texts>
+</wpml-config>
